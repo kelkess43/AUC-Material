@@ -6,6 +6,8 @@ Here are the links to open the notebooks directly in Google Colab:
 
 - Session 2 Notebook: https://colab.research.google.com/github/kelkess43/AUC-Material/blob/main/session%202/session2.ipynb
 
+- Session 3 Notebook: https://colab.research.google.com/github/kelkess43/AUC-Material/blob/main/session%203/session3.ipynb
+
 
 ------------------------------------------------------------
 
